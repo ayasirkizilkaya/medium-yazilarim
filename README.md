@@ -15,3 +15,5 @@ Junior Android geliştiricilere tavsiyeler [#5](https://medium.com/turkce/junior
 Junior Android geliştiricilere tavsiyeler [#6](https://medium.com/turkce/junior-android-geliştiricilere-tavsiyeler-6-2153b9edefe5)
 
 Junior Android geliştiricilere tavsiyeler [#7](https://medium.com/turkce/junior-android-geli%C5%9Ftiricilere-tavsiyeler-7-18e10e300bb5)
+
+Junior Android geliştiricilere tavsiyeler [#8](https://medium.com/turkce/junior-android-geli%C5%9Ftiricilere-tavsiyeler-8-kullan%C4%B1c%C4%B1-login-kontrol%C3%BC-6392175f859c)
